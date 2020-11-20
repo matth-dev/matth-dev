@@ -18,6 +18,6 @@
 <details>
 	<summary>:zap: Github Stats<summary/>
 	
-	<img align="left" alt="matheuscardoso-dev Stats" src="https://github-readme-stats.matheuscardoso-dev.vercel.app/api?username=matheuscardoso-dev*show_icons=true_border=true" />
+	<img align="left" alt="matheuscardoso-dev" src="https://github-readme-stats.matheuscardoso-dev.vercel.app/api?username=matheuscardoso-dev*show_icons=true_border=true" />
 
 <details />
