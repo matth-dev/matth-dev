@@ -1,5 +1,5 @@
 [![Instagram](https://img.shields.io/website?label=codeSTACKr.com&style=for-the-badge&url=https%3A%2F%2Fcodestackr.com)](https://www.instagram.com/matheus_opaa/)
-[![Twitter Follow](https://img.shields.io/twitter/follow/Me?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/matheus_thesuu)
+[![Twitter Follow](https://img.shields.io/twitter/follow/me?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/matheus_thesuu)
 
 
 ### Hi there, I'm Matheus - aka Matt
