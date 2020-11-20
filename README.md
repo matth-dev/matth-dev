@@ -1,16 +1,17 @@
-### Hi there 👋
+### Hi there, I'm Matheus - aka [Matt]
 
-<!--
-**matheuscardoso-dev/matheuscardoso-dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## I'm a student, developer and human!
+-📇 I'm currently working on a prokect<br/>
+-🌱 I'm currently learning everything<br/>
+-🧑‍🤝‍🧑 I'm looking to colaborate to other developers<br/>
+-🥅 2020 Goals: do not die w/ CoronaVirus 🦠<br/>
+-✔️ Fun fact: I love to play drums / guitar<br/>
 
-Here are some ideas to get you started:
+### Connect with me:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<img align="left" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />  Twitter <br/><br/>
+<img align="left" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />  LinkedIn <br/><br/>
+<img align="left" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />  Instagram <br/><br/>
+
+<br />
+
