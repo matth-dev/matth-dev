@@ -1,6 +1,5 @@
-[![Instagram]()](https://www.instagram.com/matheus_opaa/)
-[![Twitter Follow](https://img.shields.io/twitter/follow/me?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/matheus_thesuu)
-
+[![Website](https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/matheus_opaa/)
+![Twitter URL](https://img.shields.io/twitter/url?color=%231DA1F2&label=FOLLOW%20ME&logo=Twitter&style=for-the-badge&url=https%3A%2F%2Ftwitter.com%2Fmatheus_thesuu)
 
 # Hi there, I'm Matheus - aka Matt
 
