@@ -2,7 +2,7 @@
 # Hi there, I'm Matheus - aka Matt
 
 [![Website](https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/matheus_opaa/)
-[!Twitter URL(https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/matheus_thesuu)
+![Twitter URL(https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white)
 
 ## I'm a student and web developer!
 -📇 I'm currently working on a prokect<br/>
