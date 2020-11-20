@@ -2,7 +2,7 @@
 # Hi there, I'm Matheus - aka Matt
 
 [![Website](https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/matheus_opaa/)
-![Twitter URL](https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white)(https://twitter.com/matheus_thesuu)
+[!Twitter URL(https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/matheus_thesuu)
 
 ## I'm a student and web developer!
 -📇 I'm currently working on a prokect<br/>
@@ -12,8 +12,3 @@
 -✔️ Fun fact: I love to play drums / guitar<br/>
 
 ### Connect with me:
-
-[<img align="left" alt="codeSTACKr | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][https://www.youtube.com/channel/UC3lmpSN49ANUUSJ6M1fxB7Q?view_as=subscriber]
-[<img align="left" alt="codeSTACKr | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
-[<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="codeSTACKr | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
