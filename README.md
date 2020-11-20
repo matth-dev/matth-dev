@@ -11,3 +11,4 @@
 -✔️ Fun fact: I love to play drums / guitar<br/>
 
 ### Connect with me:
+<img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" />
