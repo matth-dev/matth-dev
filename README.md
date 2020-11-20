@@ -4,7 +4,7 @@
 
 ### Hi there, I'm Matheus - aka Matt
 
-## I'm a student, developer and human!
+## I'm a student and web developer!
 -📇 I'm currently working on a prokect<br/>
 -🌱 I'm currently learning everything<br/>
 -🧑‍🤝‍🧑 I'm looking to colaborate to other developers<br/>
@@ -19,9 +19,3 @@
 
 <br />
 
-<details>
-	<summary>:zap: Github Stats<summary/>
-	
-	<img align="left" alt="matheuscardoso-dev" src="https://github-readme-stats.matheuscardoso-dev.vercel.app/api?username=matheuscardoso-dev*show_icons=true_border=true" />
-
-<details />
